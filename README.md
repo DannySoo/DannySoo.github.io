@@ -10,7 +10,7 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/readme/screenshot1.png)
+![Primera parte de la página web](imagenes/readme/Introduccion.png)
 
 Experiencia:
 
@@ -18,7 +18,7 @@ Experiencia:
 
 Proyectos:
 
-![Proyectos](imagenes/readme/screenshot3.png)
+![Proyectos](imagenes/readme/Proyectos.png)
 
 Testimonios:
 
@@ -26,7 +26,7 @@ Testimonios:
 
 Contacto:
 
-![Contacto](imagenes/readme/screenshot5.png)
+![Contacto](imagenes/readme/Contacto.png)
 
 ## Tecnologías
 
